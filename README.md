@@ -13,7 +13,7 @@ Objectives:
     e. Construct a dataframe that measure degree centrality, closeness centrality,betweenness centrality,and eigenvector              centrality.
     
  Networkx depicts the relationship between cohort mates at Flatiron School- Data Science Program
- ![](images/Cohort_Mates_Relationship.png)
+    ![](Images/Cohort_Mates_Relationship.png)
 
  
     
