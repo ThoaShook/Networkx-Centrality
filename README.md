@@ -19,5 +19,8 @@ Objectives:
     ![](Images/last_10_rows.png)
  And now we can graph the relationships among business entities and users based on the strong/weakness of the reviews.
     ![](Images/business_users_relationships.png)
+    
+  Finally, after much work, we have constructed a dataframe/table that summarizes the closeness and betweenness-centrality.
+    ![](Images/users_closeness_measurements.png)
  
     
