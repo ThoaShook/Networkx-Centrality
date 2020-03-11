@@ -14,6 +14,10 @@ Objectives:
     
  Networkx depicts the relationship between cohort mates at Flatiron School- Data Science Program
     ![](Images/Cohort_Mates_Relationship.png)
-
+ Let's take a look at the first 15 rows and the last 10 rows of the "yelp review) file
+    ![](Images/first_15_rows.png)
+    ![](Images/last_10_rows.png)
+ And now we can graph the relationships among business entities and users based on the strong/weakness of the reviews.
+    ![](Images/business_users_relationships.png)
  
     
