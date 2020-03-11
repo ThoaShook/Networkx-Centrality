@@ -10,6 +10,10 @@ Objectives:
     b. Create network graph with networkx
     c. Add nodes and edges to networkx
     d. Visualize network graph with networkx
-    e. Construct a dataframe that measure degree centrality, closeness centrality,                  betweenness centrality,and eigenvector centrality.
+    e. Construct a dataframe that measure degree centrality, closeness centrality,betweenness centrality,and eigenvector              centrality.
     
+ Networkx depicts the relationship between cohort mates at Flatiron School- Data Science Program
+ ![](images/Cohort_Mates_Relationship.png)
+
+ 
     
