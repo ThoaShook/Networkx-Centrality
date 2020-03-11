@@ -25,7 +25,7 @@ Objectives:
   
   ##### Notes:
     * Degree centrality is the number of links incident upon a node (i.e., the number of ties that a node has)
-    * The closeness centrality (or closeness) of a node is the average length of the shortest path between the node and all         other nodes in the graph. Thus the more central a node is, the closer it is to all other nodes.
+    * The closeness centrality (or closeness) of a node is the average length of the shortest path between the node and all         other nodes in the graph.Thus the more central a node is, the closer it is to all other nodes.
     * Betweenness is a centrality measure of a vertex within a graph. Betweenness centrality quantifies the number of times a       node acts as a bridge along the shortest path between two other nodes. It was introduced as a measure for quantifying         the control of a human on the communication between other humans in a social network.
     * Eigenvector centrality (also called eigencentrality) is a measure of the influence of a node in a network. It assigns         relative scores to all nodes in the network based on the concept that connections to high-scoring nodes contribute more       to the score of the node in question than equal connections to low-scoring nodes.
     
