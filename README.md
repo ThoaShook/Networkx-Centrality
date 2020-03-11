@@ -21,6 +21,6 @@ Objectives:
     ![](Images/business_users_relationships.png)
     
   Finally, after much work, we have constructed a dataframe/table that summarizes the closeness and betweenness-centrality.
-    ![](Images/users_closeness_measurements.png) 
+    ![](Images/Users_closeness_measurements.png) 
  
     
